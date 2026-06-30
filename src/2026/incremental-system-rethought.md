@@ -83,7 +83,6 @@ The first step is completing the RFC and implementing it in an unstable stage.
 
 ## Frequently asked questions
 
-
 ## Funding
 
 | Purpose | Cost | Funded | Sponsor(s) |
